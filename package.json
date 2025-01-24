@@ -1,0 +1,23 @@
+{
+	"name": "cards-creator",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {},
+	"dependencies": {
+		"@ai-sdk/deepseek": "^0.0.1",
+		"@ai-sdk/openai": "^1.0.13",
+		"ai": "^4.0.26",
+		"dotenv": "^16.4.7",
+		"inquirer": "^12.3.0",
+		"minimist": "^1.2.8",
+		"zod": "^3.24.1"
+	},
+	"keywords": [],
+	"author": {
+		"name": "Ruan Gustavo",
+		"email": "dev.ruangustavo@gmail.com",
+		"url": "https://ruangustavo.com"
+	},
+	"license": "ISC"
+}
