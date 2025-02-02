@@ -84,7 +84,7 @@ async function getWordMeaning(word) {
 		prompt: `Provide the meaning of the word "${word}" in English.`,
 	});
 
-	return object.anything;
+	return object.meaning;
 }
 
 async function main() {
